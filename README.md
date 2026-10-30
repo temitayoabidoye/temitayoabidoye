@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Temitayo 👋🏽
 
-<!--
-**temitayoabidoye/temitayoabidoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst in Training 🔐
 
-Here are some ideas to get you started:
+I'm building practical cybersecurity skills through hands-on projects, investigations, and security-focused learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 About Me
+
+- 🎓 Studying Criminology & Security Studies
+- 🔐 Developing skills in cybersecurity and security analysis
+- 🕵🏽 Interested in ethical hacking and penetration testing
+- 🛡️ Learning incident response, phishing analysis, and security risk management
+- 📚 Currently building practical cybersecurity projects and documenting my learning journey
+
+🛠️ Skills & Areas of Focus
+
+- Phishing & Social Engineering
+- Incident Response
+- Security Analysis
+- Risk Assessment
+- Network Security
+- Authentication & Access Control
+- Cybersecurity Awareness
+- Ethical Hacking
+
+📂 Featured Project
+
+Student Account Compromise — Phishing Incident Investigation
+
+A simulated cybersecurity investigation involving a suspected phishing attack and possible unauthorized account access.
+
+Focus: Phishing Analysis • Social Engineering • Incident Response • Evidence Analysis • Security Controls
+
+"View Project →" (../student-account-compromise-investigation)
+
+🎯 Career Goal
+
+To develop strong practical cybersecurity skills and grow into an ethical hacking and cybersecurity professional.
+
+---
+
+This profile documents my cybersecurity learning journey and practical projects.
